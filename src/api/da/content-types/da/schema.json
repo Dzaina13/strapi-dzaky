@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "das",
+  "info": {
+    "singularName": "da",
+    "pluralName": "das",
+    "displayName": "da"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "da": {
+      "type": "string"
+    },
+    "daa": {
+      "type": "string"
+    }
+  }
+}

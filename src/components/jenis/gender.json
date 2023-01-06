@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_jenis_genders",
+  "info": {
+    "displayName": "gender"
+  },
+  "options": {},
+  "attributes": {
+    "laki": {
+      "type": "string"
+    }
+  }
+}

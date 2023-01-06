@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_repositori_repos",
+  "info": {
+    "displayName": "repo"
+  },
+  "options": {},
+  "attributes": {
+    "rotasi": {
+      "type": "string"
+    }
+  }
+}
