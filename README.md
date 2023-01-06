@@ -4,7 +4,7 @@ Strapi comes with a full featured [Command Line Interface](https://docs.strapi.i
 
 
 
-duar duar duar dzaky
+duar duar duar 
 
 ### `develop`
 
